@@ -1,4 +1,4 @@
 # Mujahid DEMO
 This is my first Git Repository
 <br>
-Auther - Mujahid Husain
+Auther - Mujahid Husain (APNA COLLEGE)
