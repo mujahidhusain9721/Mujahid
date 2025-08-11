@@ -1,2 +1,2 @@
-# Mujahid
+# Mujahid DEMO
 This is my first Git Repository
